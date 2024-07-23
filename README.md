@@ -1,4 +1,4 @@
-## Seja bem vindo(a) ao meu repositório, meu nome é Miguel Baricelli! 👋
+## Seja bem vindo(a) ao meu repositório, eu sou Miguel Baricelli! 👋
 
 <!--
 **MiguelBaricelli/MiguelBaricelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
