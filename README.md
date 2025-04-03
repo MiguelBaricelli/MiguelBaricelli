@@ -11,6 +11,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelBaricelli&hide_progress=true)
 
 ## Learn more about my work
+<hr>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-baricelli-8851b9253/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguelbaricelli/)
