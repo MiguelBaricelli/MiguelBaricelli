@@ -1,4 +1,4 @@
-## Seja bem vindo(a) ao meu repositório, eu sou Miguel Baricelli! 👋
+## Welcome to my repository, I'm Miguel Baricelli! 👋
 
 <!--
 **MiguelBaricelli/MiguelBaricelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelBaricelli&hide_progress=true)
 
-## Saiba mais sobre meu trabalho
+## Learn more about my work
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-baricelli-8851b9253/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguelbaricelli/)
@@ -20,7 +20,7 @@
 
 <br>
 
-## Minhas tecnologias mais usadas 🖥️
+## My most used technologies 🖥️
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px" style="margin-right: 20px;" />
