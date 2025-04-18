@@ -4,11 +4,25 @@
 **MiguelBaricelli/MiguelBaricelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![MiguelBaricelli GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelBaricelli&show_icons=true&theme=dracula)
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelBaricelli&hide_progress=true)
+
+<div>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelBaricelli&show_icons=true&theme=dracula" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelBaricelli&layout=compact&theme=dracula" height="180"/>
+</div>
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelBaricelli&theme=dracula)
+
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiguelBaricelli&theme=dracula)
+
+
+
+
+
+
 
 
 ## Learn more about my work!
