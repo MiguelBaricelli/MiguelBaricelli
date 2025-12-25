@@ -10,7 +10,7 @@
 
 <div>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelBaricelli&show_icons=true&theme=dracula" height="180"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelBaricelli&layout=compact&theme=dracula" height="180"/>
 </div>
 
